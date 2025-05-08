@@ -1,0 +1,64 @@
+C:\Users\marcelotoscano\Desktop\appAnalisisValores\AnalisisValoresApi\AnalisisValoresApi\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\marcelotoscano\Desktop\appAnalisisValores\AnalisisValoresApi\AnalisisValoresApi\bin\Debug\net8.0\appsettings.json
+C:\Users\marcelotoscano\Desktop\appAnalisisValores\AnalisisValoresApi\AnalisisValoresApi\bin\Debug\net8.0\AnalisisValoresApi.exe
+C:\Users\marcelotoscano\Desktop\appAnalisisValores\AnalisisValoresApi\AnalisisValoresApi\bin\Debug\net8.0\AnalisisValoresApi.deps.json
+C:\Users\marcelotoscano\Desktop\appAnalisisValores\AnalisisValoresApi\AnalisisValoresApi\bin\Debug\net8.0\AnalisisValoresApi.runtimeconfig.json
+C:\Users\marcelotoscano\Desktop\appAnalisisValores\AnalisisValoresApi\AnalisisValoresApi\bin\Debug\net8.0\AnalisisValoresApi.dll
+C:\Users\marcelotoscano\Desktop\appAnalisisValores\AnalisisValoresApi\AnalisisValoresApi\bin\Debug\net8.0\AnalisisValoresApi.pdb
+C:\Users\marcelotoscano\Desktop\appAnalisisValores\AnalisisValoresApi\AnalisisValoresApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\marcelotoscano\Desktop\appAnalisisValores\AnalisisValoresApi\AnalisisValoresApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\marcelotoscano\Desktop\appAnalisisValores\AnalisisValoresApi\AnalisisValoresApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\marcelotoscano\Desktop\appAnalisisValores\AnalisisValoresApi\AnalisisValoresApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\marcelotoscano\Desktop\appAnalisisValores\AnalisisValoresApi\AnalisisValoresApi\obj\Debug\net8.0\AnalisisValoresApi.csproj.AssemblyReference.cache
+C:\Users\marcelotoscano\Desktop\appAnalisisValores\AnalisisValoresApi\AnalisisValoresApi\obj\Debug\net8.0\AnalisisValoresApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marcelotoscano\Desktop\appAnalisisValores\AnalisisValoresApi\AnalisisValoresApi\obj\Debug\net8.0\AnalisisValoresApi.AssemblyInfoInputs.cache
+C:\Users\marcelotoscano\Desktop\appAnalisisValores\AnalisisValoresApi\AnalisisValoresApi\obj\Debug\net8.0\AnalisisValoresApi.AssemblyInfo.cs
+C:\Users\marcelotoscano\Desktop\appAnalisisValores\AnalisisValoresApi\AnalisisValoresApi\obj\Debug\net8.0\AnalisisValoresApi.csproj.CoreCompileInputs.cache
+C:\Users\marcelotoscano\Desktop\appAnalisisValores\AnalisisValoresApi\AnalisisValoresApi\obj\Debug\net8.0\AnalisisValoresApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\marcelotoscano\Desktop\appAnalisisValores\AnalisisValoresApi\AnalisisValoresApi\obj\Debug\net8.0\AnalisisValoresApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\marcelotoscano\Desktop\appAnalisisValores\AnalisisValoresApi\AnalisisValoresApi\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\marcelotoscano\Desktop\appAnalisisValores\AnalisisValoresApi\AnalisisValoresApi\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\marcelotoscano\Desktop\appAnalisisValores\AnalisisValoresApi\AnalisisValoresApi\obj\Debug\net8.0\staticwebassets\msbuild.AnalisisValoresApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\marcelotoscano\Desktop\appAnalisisValores\AnalisisValoresApi\AnalisisValoresApi\obj\Debug\net8.0\staticwebassets\msbuild.build.AnalisisValoresApi.props
+C:\Users\marcelotoscano\Desktop\appAnalisisValores\AnalisisValoresApi\AnalisisValoresApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.AnalisisValoresApi.props
+C:\Users\marcelotoscano\Desktop\appAnalisisValores\AnalisisValoresApi\AnalisisValoresApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.AnalisisValoresApi.props
+C:\Users\marcelotoscano\Desktop\appAnalisisValores\AnalisisValoresApi\AnalisisValoresApi\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\marcelotoscano\Desktop\appAnalisisValores\AnalisisValoresApi\AnalisisValoresApi\obj\Debug\net8.0\scopedcss\bundle\AnalisisValoresApi.styles.css
+C:\Users\marcelotoscano\Desktop\appAnalisisValores\AnalisisValoresApi\AnalisisValoresApi\obj\Debug\net8.0\Analisis.8E65168D.Up2Date
+C:\Users\marcelotoscano\Desktop\appAnalisisValores\AnalisisValoresApi\AnalisisValoresApi\obj\Debug\net8.0\AnalisisValoresApi.dll
+C:\Users\marcelotoscano\Desktop\appAnalisisValores\AnalisisValoresApi\AnalisisValoresApi\obj\Debug\net8.0\refint\AnalisisValoresApi.dll
+C:\Users\marcelotoscano\Desktop\appAnalisisValores\AnalisisValoresApi\AnalisisValoresApi\obj\Debug\net8.0\AnalisisValoresApi.pdb
+C:\Users\marcelotoscano\Desktop\appAnalisisValores\AnalisisValoresApi\AnalisisValoresApi\obj\Debug\net8.0\AnalisisValoresApi.genruntimeconfig.cache
+C:\Users\marcelotoscano\Desktop\appAnalisisValores\AnalisisValoresApi\AnalisisValoresApi\obj\Debug\net8.0\ref\AnalisisValoresApi.dll
+C:\Users\marcelotoscano\Desktop\App Analisis De Valores\appAnalisisValores\AnalisisValoresApi\AnalisisValoresApi\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\marcelotoscano\Desktop\App Analisis De Valores\appAnalisisValores\AnalisisValoresApi\AnalisisValoresApi\bin\Debug\net8.0\appsettings.json
+C:\Users\marcelotoscano\Desktop\App Analisis De Valores\appAnalisisValores\AnalisisValoresApi\AnalisisValoresApi\bin\Debug\net8.0\AnalisisValoresApi.exe
+C:\Users\marcelotoscano\Desktop\App Analisis De Valores\appAnalisisValores\AnalisisValoresApi\AnalisisValoresApi\bin\Debug\net8.0\AnalisisValoresApi.deps.json
+C:\Users\marcelotoscano\Desktop\App Analisis De Valores\appAnalisisValores\AnalisisValoresApi\AnalisisValoresApi\bin\Debug\net8.0\AnalisisValoresApi.runtimeconfig.json
+C:\Users\marcelotoscano\Desktop\App Analisis De Valores\appAnalisisValores\AnalisisValoresApi\AnalisisValoresApi\bin\Debug\net8.0\AnalisisValoresApi.dll
+C:\Users\marcelotoscano\Desktop\App Analisis De Valores\appAnalisisValores\AnalisisValoresApi\AnalisisValoresApi\bin\Debug\net8.0\AnalisisValoresApi.pdb
+C:\Users\marcelotoscano\Desktop\App Analisis De Valores\appAnalisisValores\AnalisisValoresApi\AnalisisValoresApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\marcelotoscano\Desktop\App Analisis De Valores\appAnalisisValores\AnalisisValoresApi\AnalisisValoresApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\marcelotoscano\Desktop\App Analisis De Valores\appAnalisisValores\AnalisisValoresApi\AnalisisValoresApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\marcelotoscano\Desktop\App Analisis De Valores\appAnalisisValores\AnalisisValoresApi\AnalisisValoresApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\marcelotoscano\Desktop\App Analisis De Valores\appAnalisisValores\AnalisisValoresApi\AnalisisValoresApi\obj\Debug\net8.0\AnalisisValoresApi.csproj.AssemblyReference.cache
+C:\Users\marcelotoscano\Desktop\App Analisis De Valores\appAnalisisValores\AnalisisValoresApi\AnalisisValoresApi\obj\Debug\net8.0\AnalisisValoresApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marcelotoscano\Desktop\App Analisis De Valores\appAnalisisValores\AnalisisValoresApi\AnalisisValoresApi\obj\Debug\net8.0\AnalisisValoresApi.AssemblyInfoInputs.cache
+C:\Users\marcelotoscano\Desktop\App Analisis De Valores\appAnalisisValores\AnalisisValoresApi\AnalisisValoresApi\obj\Debug\net8.0\AnalisisValoresApi.AssemblyInfo.cs
+C:\Users\marcelotoscano\Desktop\App Analisis De Valores\appAnalisisValores\AnalisisValoresApi\AnalisisValoresApi\obj\Debug\net8.0\AnalisisValoresApi.csproj.CoreCompileInputs.cache
+C:\Users\marcelotoscano\Desktop\App Analisis De Valores\appAnalisisValores\AnalisisValoresApi\AnalisisValoresApi\obj\Debug\net8.0\AnalisisValoresApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\marcelotoscano\Desktop\App Analisis De Valores\appAnalisisValores\AnalisisValoresApi\AnalisisValoresApi\obj\Debug\net8.0\AnalisisValoresApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\marcelotoscano\Desktop\App Analisis De Valores\appAnalisisValores\AnalisisValoresApi\AnalisisValoresApi\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\marcelotoscano\Desktop\App Analisis De Valores\appAnalisisValores\AnalisisValoresApi\AnalisisValoresApi\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\marcelotoscano\Desktop\App Analisis De Valores\appAnalisisValores\AnalisisValoresApi\AnalisisValoresApi\obj\Debug\net8.0\staticwebassets\msbuild.AnalisisValoresApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\marcelotoscano\Desktop\App Analisis De Valores\appAnalisisValores\AnalisisValoresApi\AnalisisValoresApi\obj\Debug\net8.0\staticwebassets\msbuild.build.AnalisisValoresApi.props
+C:\Users\marcelotoscano\Desktop\App Analisis De Valores\appAnalisisValores\AnalisisValoresApi\AnalisisValoresApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.AnalisisValoresApi.props
+C:\Users\marcelotoscano\Desktop\App Analisis De Valores\appAnalisisValores\AnalisisValoresApi\AnalisisValoresApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.AnalisisValoresApi.props
+C:\Users\marcelotoscano\Desktop\App Analisis De Valores\appAnalisisValores\AnalisisValoresApi\AnalisisValoresApi\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\marcelotoscano\Desktop\App Analisis De Valores\appAnalisisValores\AnalisisValoresApi\AnalisisValoresApi\obj\Debug\net8.0\scopedcss\bundle\AnalisisValoresApi.styles.css
+C:\Users\marcelotoscano\Desktop\App Analisis De Valores\appAnalisisValores\AnalisisValoresApi\AnalisisValoresApi\obj\Debug\net8.0\Analisis.8E65168D.Up2Date
+C:\Users\marcelotoscano\Desktop\App Analisis De Valores\appAnalisisValores\AnalisisValoresApi\AnalisisValoresApi\obj\Debug\net8.0\AnalisisValoresApi.dll
+C:\Users\marcelotoscano\Desktop\App Analisis De Valores\appAnalisisValores\AnalisisValoresApi\AnalisisValoresApi\obj\Debug\net8.0\refint\AnalisisValoresApi.dll
+C:\Users\marcelotoscano\Desktop\App Analisis De Valores\appAnalisisValores\AnalisisValoresApi\AnalisisValoresApi\obj\Debug\net8.0\AnalisisValoresApi.pdb
+C:\Users\marcelotoscano\Desktop\App Analisis De Valores\appAnalisisValores\AnalisisValoresApi\AnalisisValoresApi\obj\Debug\net8.0\AnalisisValoresApi.genruntimeconfig.cache
+C:\Users\marcelotoscano\Desktop\App Analisis De Valores\appAnalisisValores\AnalisisValoresApi\AnalisisValoresApi\obj\Debug\net8.0\ref\AnalisisValoresApi.dll

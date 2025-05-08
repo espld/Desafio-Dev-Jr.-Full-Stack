@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Análisis de valores</title>
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+      integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH"
+      crossorigin="anonymous"
+    />
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css"
+    />
+    <link
+      rel="stylesheet"
+      type="text/css"
+      href="https://cdn.jsdelivr.net/npm/toastify-js/src/toastify.min.css"
+    />
+    <link rel="stylesheet" href="index.css" />
+</head>
+<body>
+    <main>
+        <div class="container mt-5" id="contenedorMain">
+          <div class="contenedorValores">
+            <div class="tituloValores">
+              <h2 class="titulo-principal">Análisis de Valores</h2>
+            </div>
+              <div class="mb-3">
+                <label for="limiteInferior" class="form-label">Límite Inferior</label>
+                <input class="form-control" id="limiteInferior" placeholder="Ejemplo: 3">
+              </div>
+
+              <div class="mb-3">
+                <label for="limiteSuperior" class="form-label">Límite Superior</label>
+                <input class="form-control" id="limiteSuperior" placeholder="Ejemplo: 15">
+              </div>
+
+              <div class="mb-3">
+                <label for="agregarNumero" class="form-label">Número a agregar</label>
+                <input class="form-control" id="agregarNumero">
+                <button type="button" id="agregarNumeroBtn" class="mt-2 btn btn-primary btn-sm">Agregar Número</button>
+              </div>
+
+              <div class="mb-3">
+                <label for="numerosAgregados" class="form-label">Números agregados</label>
+                <textarea class="form-control" id="numerosAgregados" rows="3"></textarea>
+              </div>
+
+              <div class="mb-3" id="botones">
+                <button type="button" id="calcularBtn" class="btn btn-success btn-lg">Calcular</button>
+                <button type="button" id="vaciarBtn" class="btn btn-danger btn-lg">Vaciar</button>
+              </div>
+
+              <div class="mt-4" id="resultados" style="display: none;">
+                <h2>Resultados</h2>
+                <p id="valoresOrdenados"></p>
+                <p id="promedioResultado"></p>
+                <p id="medianaResultado"></p>
+                <p id="desviacionResultado"></p>
+                <p id="varianzaResultado"></p>
+                <p id="fueraResultado"></p>
+              </div>     
+          </div>
+        </div>
+      </main>
+
+      <script src="index.js"></script>
+      <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/toastify-js"></script>
+      <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+</body>
+</html>

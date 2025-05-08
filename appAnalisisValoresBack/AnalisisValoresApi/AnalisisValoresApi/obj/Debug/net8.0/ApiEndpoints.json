@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "AnalisisValoresApi.Controllers.AnalisisController",
+    "Method": "PostAnalisis",
+    "RelativePath": "api/Analisis",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "analisis",
+        "Type": "AnalisisValoresApi.Models.Analisis",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
